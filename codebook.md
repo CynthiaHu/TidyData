@@ -5,6 +5,8 @@
 
 
 ### Raw data: 561 features from the accelerometer and gyroscope 3-axial raw signals. 
+Features are normalized and bounded within [-1,1].
+
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
